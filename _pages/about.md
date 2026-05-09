@@ -13,7 +13,7 @@ I am a tenure-track associate professor in the [School of Data Science and Engin
 
 ## Education
 
-- Ph.D. in Computer Science, National University of Singapore, Singapore, 2016-2020 (supervisor: Prof. Kian-Lee Tan)
+- Ph.D. in Computer Science, National University of Singapore, Singapore, 2020 (supervisor: Prof. Kian-Lee Tan)
 - M.Eng. in Computer Science, Renmin University of China, Beijing, China, 2014 (supervisor: Prof. Shan Wang)
 - B.Eng. in Computer Science, Shandong University, Jinan, China, 2011
 
