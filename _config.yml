@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yanhao Wang's Academic Pages"
-title_separator          : -
+title_separator          : "-"
 name                     : &name "Yanhao Wang"
 description              : &description "Yanhao Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yhwang1990.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
