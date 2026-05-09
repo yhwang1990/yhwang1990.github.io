@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanhao Wang's Academic Pages"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
