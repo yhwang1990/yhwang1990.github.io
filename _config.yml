@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : 
-title_separator          : 
+title                    : Yanhao Wang's Academic Pages
+title_separator          : -
 name                     : &name "Yanhao Wang"
 description              : &description "Yanhao Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yhwang1990.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -33,9 +33,9 @@ author:
   email            : "yhwang@dase.ecnu.edu.cn" 
 
   # Academic websites
-  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ULluK_8AAAAJ&hl=en"
+  dblp             : "https://dblp.org/pid/123/2365-1.html"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7661-3917"
