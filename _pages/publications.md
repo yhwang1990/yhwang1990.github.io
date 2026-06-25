@@ -9,8 +9,8 @@ A full list of my publications can also be found on [my Google Scholar profile](
 # Journal Articles
 
 ## 2026
-- Ruipu Luo, Ziwang Zhao, Min Yang, Zheming Yang, Minghui Qiu, Zhongyu Wei, **Yanhao Wang**, and Cen Chen. 2026. Valley: Video Assistant with Large Language Model Enhanced Ability. Accepted by ACM Transactions on Multimedia Computing, Communications and Applications. [[Link]](https://doi.org/10.1145/3796716)
 - Xiaofeng Zou, Shengfa Wu, **Yanhao Wang**, and Hui Li. 2026. VecCard: a learned cardinality estimator for predicate filtering queries on vector databases. Accepted by Journal of Intelligent Information Systems. [[Link]](https://doi.org/10.1007/s10844-026-01064-5)
+- Ruipu Luo, Ziwang Zhao, Min Yang, Zheming Yang, Minghui Qiu, Zhongyu Wei, **Yanhao Wang**, and Cen Chen. 2026. Valley: Video Assistant with Large Language Model Enhanced Ability. *ACM Transactions on Multimedia Computing, Communications and Applications*, 22(7):193. [[Link]](https://doi.org/10.1145/3796716)
 - Xin Zhou, Xiangyuan Pang, Haokai Ma, Bo Ning, and **Yanhao Wang**. 2026. A multivariate calibration framework with global-local interaction and edge-aware enhancement for sonar image despeckling. *Image and Vision Computing*, 173:106079. [[Link]](https://doi.org/10.1016/j.imavis.2026.106079)
 - Qiang Huang, **Yanhao Wang**, Yiqun Sun, Anthony K. H. Tung, and Jun Yu. 2026. Balancing Relevance and Diversity in k-Maximum Inner Product Search. *The VLDB Journal*, 35(4):32. [[Link]](https://doi.org/10.1007/s00778-026-00982-8) 
 - Fuyong Zhao, Yuyang Li, Cunshi Wang, Zhenyu Liu, Panfeng Chen, Jifeng Liu, Hui Li, and **Yanhao Wang**. 2026. Can large language models generate novel scientific ideas? A comprehensive study on data-driven astronomy. *EPJ Data Science*, 15:60. [[Link]](https://doi.org/10.1140/epjds/s13688-026-00672-z)
