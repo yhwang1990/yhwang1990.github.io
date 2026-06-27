@@ -59,6 +59,7 @@ A full list of my publications can also be found on [my Google Scholar profile](
 # Conference Papers
 
 ## 2026
+- Fan Liu, **Yanhao Wang**, Min Zhang, Zhikang Chen, Zeyuan Li, Lewei He, and Jiahui Pan. 2026. Think Faster Than Words: Efficient LLM Chain-of-Thought Reasoning via Dynamic Shortcut Decoding. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 28825–28836. [[Link]](https://aclanthology.org/2026.acl-long.1330/)
 - Yi Zhou, Wenyue Ma, **Yanhao Wang**, Yuchen Li, and Panagiotis Karras. 2026. Fair Adaptive Influence Maximization in Social Networks. To appear in the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2026).
 - Ce Lyu, Changzheng Wei, **Yanhao Wang**, Jie Liang, Li Lin, Hanghang Wu, Minghao Zhao, Ying Yan, and Aoying Zhou. 2026. A Set-Theoretic Approach to Detecting Logic Bugs in DBMS Inner Join Optimizations. To appear in the 2026 IEEE 42nd International Conference on Data Engineering (ICDE).
 - Hao Wu, Changzheng Wei, **Yanhao Wang**, Li Lin, Yilong Leng, Shiyu He, Minghao Zhao, Hanghang Wu, Ying Yan, and Aoying Zhou. 2026. Zero-Knowledge Verifiable Graph Query Evaluation via Expansion-Centric Operator Decomposition. To appear in the 2026 IEEE 42nd International Conference on Data Engineering (ICDE).
