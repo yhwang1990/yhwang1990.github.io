@@ -10,6 +10,7 @@ A full list of my publications can also be found on [my Google Scholar profile](
 
 ## 2026
 - Xiaofeng Zou, Shengfa Wu, **Yanhao Wang**, and Hui Li. 2026. VecCard: a learned cardinality estimator for predicate filtering queries on vector databases. Accepted by Journal of Intelligent Information Systems. [[Link]](https://doi.org/10.1007/s10844-026-01064-5)
+- Zhanyi Hu, Xuhong Wang, Cen Chen, and **Yanhao Wang**. 2026. Backspin: A Backdoor Attack Framework for Split Learning Based on Smashed Data. Accepted by Neural Networks. [[Link]](https://doi.org/10.1016/j.neunet.2026.109402)
 - Ruipu Luo, Ziwang Zhao, Min Yang, Zheming Yang, Minghui Qiu, Zhongyu Wei, **Yanhao Wang**, and Cen Chen. 2026. Valley: Video Assistant with Large Language Model Enhanced Ability. *ACM Transactions on Multimedia Computing, Communications and Applications*, 22(7):193. [[Link]](https://doi.org/10.1145/3796716)
 - Xin Zhou, Xiangyuan Pang, Haokai Ma, Bo Ning, and **Yanhao Wang**. 2026. A multivariate calibration framework with global-local interaction and edge-aware enhancement for sonar image despeckling. *Image and Vision Computing*, 173:106079. [[Link]](https://doi.org/10.1016/j.imavis.2026.106079)
 - Qiang Huang, **Yanhao Wang**, Yiqun Sun, Anthony K. H. Tung, and Jun Yu. 2026. Balancing Relevance and Diversity in k-Maximum Inner Product Search. *The VLDB Journal*, 35(4):32. [[Link]](https://doi.org/10.1007/s00778-026-00982-8) 
