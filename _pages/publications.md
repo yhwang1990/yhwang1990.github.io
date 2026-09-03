@@ -12,6 +12,7 @@ A full list of my publications can also be found on [my Google Scholar profile](
 - Zhanyi Hu, Xuhong Wang, Cen Chen, and **Yanhao Wang**. 2027. Backspin: A Backdoor Attack Framework for Split Learning Based on Smashed Data. *Neural Networks*, 205:109402. [[Link]](https://doi.org/10.1016/j.neunet.2026.109402)
 
 ## 2026
+- Liujun Ji, Chenting Dong, Martin Pavlovski, **Yanhao Wang**, and Fang Zhou. 2026. EdgeBoost4PAD: An Adaptive Strategy for Enhancing Semi-Supervised Priority-Aware Anomaly Detection. Accepted by IEEE Transactions on Knowledge and Data Engineering. [[Link]](https://doi.org/10.1109/TKDE.2026.3729880)
 - Fei Yu, Zhe Xiang, **Yanhao Wang**, Nan Che, Yuandi Li, Yaguan Qian, Fuhui Zhou, and Zhiguo Wan. 2026. Task-oriented Multimodal Semantic Communication Based on Double Channel State Estimation. Accepted by IEEE Transactions on Mobile Computing. [[Link]](https://doi.org/10.1109/TMC.2026.3725238)
 - Xiaofeng Zou, Shengfa Wu, **Yanhao Wang**, and Hui Li. 2026. VecCard: a learned cardinality estimator for predicate filtering queries on vector databases. Accepted by Journal of Intelligent Information Systems. [[Link]](https://doi.org/10.1007/s10844-026-01064-5)
 - Jiping Zheng, Chaoyi Jiang, **Yanhao Wang**, Xiaoyang Wang, Zhengchen Yang, and Zhiyang Hao. 2026. Online Happiness Maximization Queries. *Theoretical Computer Science*, 1085:116210. [[Link]](https://doi.org/10.1016/j.tcs.2026.116210)
