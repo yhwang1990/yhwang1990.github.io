@@ -65,6 +65,7 @@ A full list of my publications can also be found on [my Google Scholar profile](
 # Conference Papers
 
 ## 2026
+- Ting Hou, **Yanhao Wang**, Yiping Wang, Cen Chen, Minghao Zhao, and Fan Dang. 2026. Multi-objective Submodular Maximization with Differential Privacy. In Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, ECML PKDD 2026, Naples, Italy, September 7–11, 2026, Proceedings, Part IV, pages 703-720. [[Link]](https://doi.org/10.1007/978-3-032-37667-1_40)
 - Fan Liu, **Yanhao Wang**, Min Zhang, Zhikang Chen, Zeyuan Li, Lewei He, and Jiahui Pan. 2026. Think Faster Than Words: Efficient LLM Chain-of-Thought Reasoning via Dynamic Shortcut Decoding. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 28825–28836. [[Link]](https://aclanthology.org/2026.acl-long.1330/)
 - Yi Zhou, Wenyue Ma, **Yanhao Wang**, Yuchen Li, and Panagiotis Karras. 2026. Fair Adaptive Influence Maximization in Social Networks. In Data Science: Foundations and Applications -
 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2026, Hong Kong, China, June 9–12, 2026, Proceedings, Part I, pages 296-308. [[Link]](https://doi.org/10.1007/978-981-92-1926-1_24)
